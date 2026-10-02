@@ -60,7 +60,7 @@ The application supports:
 
 Compile the Java files:
 
-    "javac src\*.java"
+javac src\*.java
 
 Run the application:
 
