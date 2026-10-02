@@ -23,6 +23,7 @@ Student Record Management System is a Java-based command-line application used t
 
 ## Project Structure
 
+```text
 student-record-management/
 │
 ├── src/
@@ -32,6 +33,7 @@ student-record-management/
 │
 ├── README.md
 └── .gitignore
+```
 
 ## Concepts Practiced
 
